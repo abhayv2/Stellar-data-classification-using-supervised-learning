@@ -9,9 +9,6 @@ The classification models of random forest and support vector model (SVM), along
 
 The data used in this study are from the Sloan Digital Sky Survey (SDSS), which is a famous astronomical survey that has spent more than 20 years attempting to create incredibly accurate and detailed images and a map of the universe. The data represents 100,000 observations of space collected by the SDSS (Sloan Digital Sky Survey). Every observation is defined by 17 feature columns and a class column that categorizes it as a star, galaxy, or quasar. 
 
-Logistic Regression: 
-In logistic regression, the relationship between the dependent variable and independent variables is modeled using logistic function (also known as the sigmoid function), which gives an S-shaped curve that can be used to model the probability of a binary outcome. The coefficients in the logistic regression model represent the change in the log odds of the binary outcome for a unit change in a predictor variable, holding all other predictors constant.
-
 
 ## Models
 
